@@ -1,0 +1,14 @@
+C:\Users\Hubert\source\repos\MultiplicationBigNumbers\MultiplicationBigNumbers\obj\Debug\MultiplicationBigNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\source\repos\MultiplicationBigNumbers\MultiplicationBigNumbers\obj\Debug\MultiplicationBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\source\repos\MultiplicationBigNumbers\MultiplicationBigNumbers\bin\Debug\MultiplicationBigNumbers.exe.config
+C:\Users\Hubert\source\repos\MultiplicationBigNumbers\MultiplicationBigNumbers\bin\Debug\MultiplicationBigNumbers.exe
+C:\Users\Hubert\source\repos\MultiplicationBigNumbers\MultiplicationBigNumbers\bin\Debug\MultiplicationBigNumbers.pdb
+C:\Users\Hubert\source\repos\MultiplicationBigNumbers\MultiplicationBigNumbers\obj\Debug\MultiplicationBigNumbers.exe
+C:\Users\Hubert\source\repos\MultiplicationBigNumbers\MultiplicationBigNumbers\obj\Debug\MultiplicationBigNumbers.pdb
+C:\Users\Hubert\Desktop\C#_Work\MultiplicationBigNumbers\MultiplicationBigNumbers\bin\Debug\MultiplicationBigNumbers.exe.config
+C:\Users\Hubert\Desktop\C#_Work\MultiplicationBigNumbers\MultiplicationBigNumbers\bin\Debug\MultiplicationBigNumbers.exe
+C:\Users\Hubert\Desktop\C#_Work\MultiplicationBigNumbers\MultiplicationBigNumbers\bin\Debug\MultiplicationBigNumbers.pdb
+C:\Users\Hubert\Desktop\C#_Work\MultiplicationBigNumbers\MultiplicationBigNumbers\obj\Debug\MultiplicationBigNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Desktop\C#_Work\MultiplicationBigNumbers\MultiplicationBigNumbers\obj\Debug\MultiplicationBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\C#_Work\MultiplicationBigNumbers\MultiplicationBigNumbers\obj\Debug\MultiplicationBigNumbers.exe
+C:\Users\Hubert\Desktop\C#_Work\MultiplicationBigNumbers\MultiplicationBigNumbers\obj\Debug\MultiplicationBigNumbers.pdb
